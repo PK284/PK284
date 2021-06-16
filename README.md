@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PK284
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning C++
+- 🌱 I’m know C/C++, Java and XML
 - 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me kumarpiyush2841@gmail.com
 
