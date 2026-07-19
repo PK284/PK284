@@ -109,13 +109,9 @@ Power BI • Tableau • Matplotlib
 
 ## 📫 Connect
 
-LinkedIn
+LinkedIn : https://www.linkedin.com/in/piyush-kumar-5b0630208/
 
-Email
-
-Portfolio
-
-Twitter
+Email : kumarpiyush2841@gmail.com
 
 ---
 
